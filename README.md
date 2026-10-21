@@ -1,5 +1,7 @@
 IFC BIZGROWTH
 
+![IFC BIZGROWTH Logo](images/logo.png)
+
 Building Digital Bridges. Growing African Businesses.
 
 IFC BIZGROWTH is an African business discovery, digital visibility, and growth platform designed to help businesses showcase their products and services, establish an online presence, reach potential customers, and access digital advertising and marketing opportunities.
@@ -640,7 +642,7 @@ IFC BRIDGE LAB is a technology and innovation company focused on developing digi
 
 IFC BIZGROWTH is one of its business-focused initiatives, created to support digital business visibility and growth.
 
-Website: https://ifcbridgelab.com
+Website: https://ifcbridgelab.africa
 
 ---
 
@@ -669,3 +671,7 @@ We believe that businesses should have better opportunities to establish their d
 Our mission is to build practical digital tools that help businesses become more visible, more accessible, and better positioned to pursue growth.
 
 IFC BIZGROWTH — Connecting Businesses. Creating Opportunities. Supporting Growth.
+
+![IFC BIZGROWTH Website](images/website-homepage.png)
+
+![IFC BIZGROWTH Mobile App](images/mobile-app.png)
